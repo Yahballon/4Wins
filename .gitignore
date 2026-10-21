@@ -1,0 +1,13 @@
+app/
+build/
+dist/
+.deps/
+*.o
+*.elf
+*.prx
+*.pkg
+*.zip
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
